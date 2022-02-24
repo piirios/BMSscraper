@@ -1,0 +1,7 @@
+bmspath = 'BMS/'
+bmrpath = 'BMR/'
+zone = 4
+region = 1
+want_bmr = true
+pretty = true
+run_every = "P0Y0M0DT0H0M20S" #exprimé en (jour)D(heure)H(minute)M
